@@ -1,5 +1,5 @@
-### ENTER YOUR NAME: JESUBALAN A
-### ENTER YOUR REGISTER NO.212223240060
+### ENTER YOUR NAME: PRAVIN KUMAR A.
+### ENTER YOUR REGISTER NO.212223230155
 ### DATE:04/10/24
 <H3>EX. NO.3</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
